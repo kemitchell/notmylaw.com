@@ -4,7 +4,7 @@
 
 "I can take a quick look, but I might miss something.  _It's not my law._"
 
-Contract and other legal terms often choose the law of a specific country or state to govern them.  But lawyers who help with those terms generally learn the law where they earn their license.  What happens when a client asks a lawyer to review terms governed by some other state or country's law?
+Contract and other legal terms often choose the law of a specific country or state to govern them.  Lawyers generally learn the law where they earn their license.  What happens when a client asks a lawyer to review terms governed by some other state or country's law?
 
 Ideally, every client would get a locally qualified lawyer for every set of terms they sign.  Realistically, that often doesn't happen.
 
