@@ -1,0 +1,40 @@
+html {
+  font-family: sans-serif;
+  line-height: 1.37;
+}
+
+header[role=banner],
+main[role=main],
+footer[role=contentinfo] {
+  margin: 2rem auto;
+}
+
+@media screen {
+  header[role=banner],
+  main[role=main],
+  footer[role=contentinfo] {
+    max-width: 33rem;
+  }
+}
+
+header[role=banner] h1,
+header[role=banner] p {
+  margin: 0;
+}
+
+footer[role=contentinfo] {
+  text-align: right;
+}
+
+a[href] { text-decoration: none; }
+a[href]:hover { text-decoration: none; }
+
+@media print {
+  .noprint {
+    display: none;
+  }
+}
+
+dfn {
+  font-style: italic;
+}
