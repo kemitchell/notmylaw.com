@@ -34,7 +34,7 @@ In the USA, for example, many intellectual property laws---patent, copyright, an
 
 Basic contract laws, on the other hand, vary state by state, with some standardization in specific areas, like sales of goods.  It's common to get good advice on common business contract terms under New York, Delaware, California, or Texas law from lawyers licensed in nearly any state.  Lawyers may hesitate more to advise on terms from smaller states they don't deal with often, such as Wyoming or Hawaii law.
 
-The big exception is [Louisiana](https://en.wikipedia.org/wiki/Law_of_Louisiana) private law.  Long a French colony, Louisiana still resembles a Napoleonic civil law system more than a common law system in many ways.  Other states colonized by the Spanish now have common law legal systems, but retain some civil law rules, like [community property](https://en.wikipedia.org/wiki/Community_property) among married couples.
+The big exception is [Louisiana](https://en.wikipedia.org/wiki/Law_of_Louisiana) private law.  Long a French colony, Louisiana still resembles a Napoleonic civil law system more than a common law system in some areas.  Other states colonized by the Spanish now have common law legal systems, but retain some civil law rules, like [community property](https://en.wikipedia.org/wiki/Community_property) among married couples.
 
 <h2 id="specialization">Specialization and Complexity</h2>
 
