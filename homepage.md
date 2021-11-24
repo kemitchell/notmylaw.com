@@ -38,7 +38,7 @@ The big exception is [Louisiana](https://en.wikipedia.org/wiki/Law_of_Louisiana)
 
 <h2 id="specialization">Specialization and Complexity</h2>
 
-The more areas of law matter for a set of terms, the more likely a local lawyer's worthwhile.
+The more areas of unfamiliar law matter for a set of terms, the more likely a local lawyer will prove worthwhile.
 
 An American business lawyer who doesn't advise on tax laws may still internalize tax-driven best practices doing American business deals.  That lawyer isn't likely to notice if a change to a contract under English law suddenly implicates a British tax rule that doesn't exist in the United States.
 
