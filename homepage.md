@@ -28,7 +28,7 @@ In general, <dfn>common law</dfn> legal systems like the UK, most of the USA, mo
 
 Whether a lawyer can advise well on terms under the laws of another state or subdivision really depends on the circumstances.
 
-Within countries, some laws apply throughout the land, while others can differ from state to state and subdivision to subdivision.
+Within countries, some laws apply throughout the land, while others differ from state to state and subdivision to subdivision.
 
 In the USA, for example, many intellectual property laws---patent, copyright, and the most important trademark laws---come from the federal government and apply nationwide.  Lawyers from all states advise on federal law issues.
 
