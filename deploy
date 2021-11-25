@@ -1,5 +1,5 @@
 #!/bin/sh
 set -e
 SITE=notmylaw.com
-make
+make --always-make
 scp index.html styles.css "$SITE:/var/www/$SITE"
