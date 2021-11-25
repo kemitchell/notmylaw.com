@@ -30,7 +30,7 @@ Whether a lawyer can advise well on terms under the laws of another state or sub
 
 Within countries, some laws apply throughout the land, while others differ from state to state and subdivision to subdivision.
 
-In the USA, for example, many intellectual property laws---patent, copyright, and the most important trademark laws---come from the federal government and apply nationwide.  Lawyers from all states advise on federal law issues.
+In the USA, for example, many intellectual property laws---patent, copyright, and the most important trademark laws---come from the federal government and apply nationwide.  Lawyers from all states study and advise on federal law.
 
 Basic contract laws, on the other hand, vary state by state, with some standardization in specific areas, like sales of goods.  It's common to get good advice on common business contract terms under New York, Delaware, California, or Texas law from lawyers licensed in nearly any state.  Lawyers may hesitate more to advise on terms from smaller states they don't deal with often, such as Wyoming or Hawaii law.
 
