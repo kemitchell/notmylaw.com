@@ -32,7 +32,7 @@ Within countries, some laws apply throughout the land, while others differ from 
 
 In the USA, for example, many intellectual property laws---patent, copyright, and the most important trademark laws---come from the federal government and apply nationwide.  Lawyers from all states study and advise on federal law.
 
-Basic contract laws, on the other hand, vary state by state, with some standardization in specific areas, like sales of goods.  It's common to get good advice on common business contract terms under New York, Delaware, California, or Texas law from lawyers licensed in nearly any state.  But lawyers may hesitate to advise on terms from smaller states they don't deal with often, such as Wyoming or Hawaii law.
+Basic contract laws, on the other hand, vary state by state, with some standardization in specific areas, like sales of goods.  It's common to get good advice on common business contract terms under New York, Delaware, California, or Texas law from lawyers licensed in nearly any state.  But lawyers may hesitate to advise on terms under the laws of smaller states they don't deal with often, like Wyoming or Hawaii.
 
 The big exception is [Louisiana](https://en.wikipedia.org/wiki/Law_of_Louisiana) private law.  Long a French colony, Louisiana still resembles a Napoleonic civil law system more than a common law system in some areas.  Other states colonized by the Spanish now have common law legal systems, but retain some civil law rules, like [community property](https://en.wikipedia.org/wiki/Community_property) among married couples.
 
