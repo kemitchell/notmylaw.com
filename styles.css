@@ -18,7 +18,11 @@ footer[role=contentinfo] {
   }
 }
 
-h1,
+h1 {
+  font-size: 200%;
+  margin: 0;
+}
+
 header[role=banner] p {
   margin: 0;
 }
