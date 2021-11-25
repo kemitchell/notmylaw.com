@@ -8,7 +8,7 @@ Contract and other legal terms often choose the law of a specific country or sta
 
 Ideally, every client would get a locally qualified lawyer for every set of terms they sign.  Realistically, that often doesn't happen.
 
-Review by the lawyer you have can still be a big help.  Lawyers of all kinds read carefully and learn what to expect in terms for deals in their fields.  The main risk is that they won't know about rules in the unfamiliar law that affect how the terms they do see will be interpreted, applied, and regulated.  The results could differ from what they expect based on experience and study in their own legal "home".  They don't know what they don't know.
+Review by the lawyer you have can still be a big help.  Lawyers of all kinds read carefully and learn what to expect in terms for deals in their fields.  The main risk is that they won't know about rules in the unfamiliar law that affect how those terms will be interpreted, applied, and regulated.  The results could differ from what they expect based on experience and study in their own legal "home".  They don't know what they don't know.
 
 In the end, whether to stick to the lawyer you have or find a locally qualified one is a matter of judgment and trade-offs.  The lawyer you have can help you to decide, but in the end, it's the client's decision.
 
