@@ -24,7 +24,7 @@ Lawyers are usually better prepared to review terms under the same kind of legal
 
 In general, <dfn>common law</dfn> legal systems like the UK, most of the USA, most of Canada, Australia, New Zealand, Hong Kong, and Macau, share a lot in common.  So do <dfn>civil law</dfn> legal systems, especially those of a common legal tradition, such as the Napoleonic, Germanic, Nordic, or Chinese.  So a business lawyer from Colorado, a common law system, probably has better instincts for reviewing a contract under Irish law, another common law system, than Danish law, a civil law system.
 
-<h2 id="states">State by State</h3>
+<h2 id="states">State by State</h2>
 
 Whether a lawyer can advise well on terms under the laws of another state or subdivision really depends on the circumstances.
 
