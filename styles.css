@@ -29,6 +29,7 @@ header[role=banner] p {
 
 footer[role=contentinfo] {
   font-size: 85%;
+  margin-bottom: 5rem;
   text-align: right;
 }
 
