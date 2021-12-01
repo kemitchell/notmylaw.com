@@ -12,13 +12,13 @@ Review by the lawyer you have can still be a big help.  Lawyers of all kinds rea
 
 In the end, whether to stick to the lawyer you have or find a locally qualified one is a matter of judgment and trade-offs.  The lawyer you have can help you to decide, but in the end, it's the client's decision.
 
-<h2 id="familiarity">Familiarity is Key</h2>
+<h2 id="familiarity">Familiarity</h2>
 
 Some lawyers end up learning a lot about the laws of other countries and states that they deal with regularly.  While these lawyers may not hold licenses in those jurisdictions, and can't usually appear as lawyers in court there, they may actually know more about the particular laws that matter to their clients than the average local lawyer.
 
 Those lawyers are the exception, not the rule.  But they do exist.
 
-<h2 id="similarity">Similar Legal Systems</h2>
+<h2 id="similarity">Similar Systems</h2>
 
 Lawyers are usually better prepared to review terms under the same kind of legal system and legal tradition as their own.  Broadly similar legal systems can still differ in particulars.  But instincts and research skills often translate.
 
@@ -36,7 +36,7 @@ Basic contract laws, on the other hand, vary state by state, with some standardi
 
 The big exception is [Louisiana](https://en.wikipedia.org/wiki/Law_of_Louisiana) private law.  Long a French colony, Louisiana still resembles a Napoleonic civil law system more than a common law system in some areas.  Other states colonized by the Spanish now have common law legal systems, but retain some civil law rules, like [community property](https://en.wikipedia.org/wiki/Community_property) among married couples.
 
-<h2 id="specialization">Specialization and Complexity</h2>
+<h2 id="specialization">Specialization</h2>
 
 The more areas of unfamiliar law matter for a set of terms, the more likely a local lawyer will prove worthwhile.
 
