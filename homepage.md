@@ -1,4 +1,4 @@
-"These terms are governed by the law of a foreign country.  I'm not qualified to practice there."
+"These terms are governed by the law of a foreign country."
 
 "Ideally, you'd get a local lawyer to review this for you."
 
