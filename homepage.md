@@ -42,7 +42,7 @@ The more areas of unfamiliar law matter for a set of terms, the more likely a lo
 
 An American business lawyer who doesn't advise on tax laws may still internalize tax-driven best practices doing American business deals.  That lawyer isn't likely to notice if a change to a contract under English law suddenly implicates a British tax rule without any counterpart in the United States.  The same can happen in relation to other specialties.
 
-<h2 id="importance">Importance</h2>
+<h2 id="risk">Risk</h2>
 
 As usual, the more a deal is worth, and the more risk you are taking on it, the more likely it makes sense to find and hire exactly the right legal help.
 
