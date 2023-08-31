@@ -4,23 +4,23 @@
 
 "I can take a quick look, but I might miss something.  _It's not my law._"
 
-Contract and other legal terms often choose the law of a specific country or state to govern them.  Lawyers generally learn the law where they earn their license.  What happens when a client asks a lawyer to review terms governed by some other law?
+Lawyers generally learn the law of the place where they earn their license.  What happens when you ask them to review terms governed by some other jurisdiction's law?
 
-Ideally, every client would get a locally qualified lawyer for every set of terms they sign.  Realistically, that often doesn't happen.
+Ideally, every client would get a locally qualified lawyer for every set of terms they sign, every time.  Realistically, that doesn't happen.
 
-Review by the lawyer you have can still be a big help.  Lawyers of all kinds read carefully and learn what to expect in terms for deals in their fields.  The main risk is that they won't know about rules in the unfamiliar law that affect how those terms will be interpreted, applied, and regulated.  The results could differ from what they expect based on experience and study in their own legal "home".  They don't know what they don't know.
+The lawyer you already have can still be a big help.  Lawyers of all kinds read carefully and learn what to expect in terms for deals in their fields.  The main risk is that they won't know about rules in the unfamiliar law that affect how those terms will be interpreted, applied, and regulated.  The results could differ from what they expect based on experience and study in their own legal "home".
 
-In the end, whether to stick to the lawyer you have or find a locally qualified one is a matter of judgment and trade-offs.  The lawyer you have can help you to decide, but in the end, it's the client's decision.
+In the end, whether to stick to the lawyer you have or find a locally qualified one is a matter of judgment and trade-offs.  The lawyer you have can help you to decide, but in the end, it's your decision.
 
 <h2 id="familiarity">Familiarity</h2>
 
-Some lawyers end up learning a lot about the laws of other countries and states that they deal with regularly.  While these lawyers may not hold licenses in those jurisdictions, and can't usually appear as lawyers in court there, they may actually know more about the particular laws that matter to their clients than the average local lawyer.
+Some lawyers end up learning a lot about the laws of other jurisdictions that they deal with regularly.  While the lawyer may not have a license there, and can't usually represent you in courts there, they may actually know more about the laws that matter to you than local lawyers who work for different kinds of clients with totally different needs.
 
-Those lawyers are the exception, not the rule.  But they do exist.
+That said, the top experts in a particular area of law in a particular jurisdiction are nearly always local lawyers.  When you have a lot at stake, or when you need a lawyer to guess how local courts will answer a legal question that the courts haven't seen before, hiring a local lawyer will probably make more sense.
 
 <h2 id="similarity">Similar Systems</h2>
 
-Lawyers are usually better prepared to review terms under the same kind of legal system and legal tradition as their own.  Broadly similar legal systems can still differ in particulars.  But instincts and research skills often translate.
+Lawyers are usually better prepared to review terms under the same kind of legal system and legal tradition as their own.  Broadly similar legal systems can still differ in particulars, but research skills and intuitions often translate.
 
 In general, <dfn>common law</dfn> legal systems like the UK, most of the USA, most of Canada, Australia, New Zealand, Hong Kong, and Macau, share a lot in common.  So do <dfn>civil law</dfn> legal systems, especially those of a common legal tradition, such as the Napoleonic, Germanic, Nordic, or Chinese.  So a business lawyer from Colorado---a common law system---probably has better instincts for reviewing a contract under Irish law---another common law system---than Danish law---a civil law system.
 
