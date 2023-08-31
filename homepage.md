@@ -1,6 +1,6 @@
-"These terms are governed by the law of a foreign country."
-
 "Ideally, you'd get a local lawyer to review this for you."
+
+"These terms are governed by the law of a foreign country."
 
 "I can take a quick look, but I might miss something.  _It's not my law._"
 
